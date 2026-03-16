@@ -16,4 +16,4 @@ Material zur Vorlesung + Labor KI-Systeme an der HSO im SS26
 * [Aufgabe 1 - Parallel Matrix Multiplication](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_1/Aufgabe_1.ipynb)
 </details>
 
-<details>
+
