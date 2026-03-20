@@ -6,7 +6,7 @@ Material zur Vorlesung + Labor KI-Systeme an der HSO im SS26
 
 ### Numba
 * [Numba Docs](https://numba.readthedocs.io/en/stable/)    
-* [Numba Demo](https://colab.research.google.com/github/keuperj/MLSystems26/blob/main/block_1/Numba_demo.ipynb)
+* [Numba Demo](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_1/Numba_demo.ipynb)
   
 ### Zusätzliche Links
 * [multiprocessing API](https://docs.python.org/3/library/multiprocessing.html)
