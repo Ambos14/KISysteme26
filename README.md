@@ -47,10 +47,11 @@ Material zur Vorlesung + Labor KI-Systeme an der HSO im SS26
 * [collection of bash script examples](https://github.com/ruanyf/simple-bash-scripts)
 
 ### Exercises (optional)
-* [Exercises](https://github.com/keuperj/DataEngineering24/blob/main/week_9/exercises.md)
+* [Exercises](./block_Linux/exercises.md)
 
 ### Linux Shell in Colab
-* [Shell hack in Colab](https://colab.research.google.com/github/keuperj/DataEngineering24/blob/main/week_9/Linux_Shell_in_Colab.ipynb)
+* Open new Colab notebook
+* [Shell hack in Colab](https://colab.research.google.com/)
 
 </details>
  
