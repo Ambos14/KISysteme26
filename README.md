@@ -50,8 +50,7 @@ Material zur Vorlesung + Labor KI-Systeme an der HSO im SS26
 * [Exercises](./block_Linux/exercises.md)
 
 ### Linux Shell in Colab
-* Open new Colab notebook
-* [Shell hack in Colab](https://colab.research.google.com/)
+* [Open new Colab notebook](https://colab.research.google.com/)
 
 </details>
  
