@@ -95,6 +95,54 @@ Material zur Vorlesung + Labor KI-Systeme an der HSO im SS26
 
 </details>
 
+<details>
+<summary> <H2> Block 6  - DL Ops + CUDA </H2><BR></summary>
+
+## Labor
+### C in a Nutshell
+* [C Cheat-Sheet](https://quickref.me/c.html)
+* [Short C Tutorial](https://github.com/8greg8/interactive_c_tutorial/tree/master) [Start in BINDER](https://mybinder.org/v2/gh/8greg8/c_tutorial/master?urlpath=lab) -> **change Jupyter Kernel to "C" !**
+
+### CUDA
+* [CUDA Tutorial (Assignment)](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_6/CUDA_Intro.ipynb)
+
+## optional resources
+### in Depth CUDA
+* [official NVIDIA CUDA Tutorial](https://docs.nvidia.com/cuda/cuda-programming-guide/)
+  
+### Learning C/C++
+* [C++ Fundamentals - PDF Book + Slides + interactive Notebooks](https://github.com/rambasnet/CPP-Fundamentals/tree/main)
+* [interactive C/C++ Pointer Tutorial](https://pythontutor.com/cpp.html#mode=display)
+
+</details>
+
+<details>
+<summary> <H2> Block 7  - DL Hardware </H2><BR></summary>
+
+## Lab
+
+### TPU Programming 
+* [TPU Tutorial](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_7/Getting_Started_with_PyTorch_on_Cloud_TPUs.ipynb)
+
+
+
+
+</details>
+<details>
+
+
+<details>
+<summary> <H2> Block 8 - High Level GPU Programming </H2><BR></summary>
+
+## Demo Vorlesung
+
+* [RAPIDS CuML Demo](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_8/Rapids_intro.ipynb)
+* [RAPIDS CuML Benchmarks](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_8/cuml_benchmarks.ipynb) 
+
+
+
+</details>
+
 
 
 
